@@ -1,16 +1,15 @@
 # odin-recipes
-
-<h4>This Shows My Ability To:</h4>
+<h4>Abilities Showcased:</h4>
 <ul>
-    <li>Use the WSL command line</li>
-    <li>Link projects to github</li>
-    <li>Use git for useful commits</li>
-    <li>Create and use HTML boilerplates</li>
-    <li>Use headings and page hierarchy</li>
-    <li>Use ordered and unordered lists</li>
-    <li>Use absolute and relative links</li>
-    <li>Use images to make pages look better</li>
-    <li>Deploy projects using github pages</li>
+    <li>Using the WSL command line</li>
+    <li>Linking projects to github</li>
+    <li>Using git for useful commits</li>
+    <li>Using headings and page hierarchy</li>
+    <li>Using ordered and unordered lists</li>
+    <li>Using absolute and relative links</li>
+    <li>Creating and using HTML boilerplates</li>
+    <li>Using images to make pages look better</li>
+    <li>Deploying projects using github pages</li>
 </ul>
 <h4>Credits:</h4>
 <ul>
