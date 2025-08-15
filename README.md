@@ -5,6 +5,7 @@
     <li>Using the WSL command line</li>
     <li>Linking projects to github</li>
     <li>Using git for useful commits</li>
+    <li>Using bold an italicized text</li>
     <li>Using headings and page hierarchy</li>
     <li>Using ordered and unordered lists</li>
     <li>Using absolute and relative links</li>
