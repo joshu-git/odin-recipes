@@ -1,4 +1,5 @@
 # odin-recipes
+<p>Odin Recipes is a project focused on demonstrating the skills detailed below in the form of a website that showcases recipes. Thank you for reading.</p>
 <h4>Skill Demonstrated:</h4>
 <ul>
     <li>Using the WSL command line</li>
