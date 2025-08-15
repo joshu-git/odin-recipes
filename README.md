@@ -1,5 +1,5 @@
 # odin-recipes
-<p>Odin Recipes is a project for demonstrating the skills detailed below iby creating a website for recipes. Thank you for reading. To view the website please click: <a href="https://joshu-git.github.io/odin-recipes/index.html" target="_black " rel="noopener noreferrer"><strong>Here</strong></a></p>
+<p>Odin Recipes is a project for demonstrating the skills detailed below iby creating a website for recipes. To view the website please click <strong><a href="https://joshu-git.github.io/odin-recipes/index.html" target="_black " rel="noopener noreferrer">Here</a></strong></p>. Thank you for reading; I appreciate it.
 <h4>Skill Demonstrated:</h4>
 <ul>
     <li>Using the WSL command line</li>
