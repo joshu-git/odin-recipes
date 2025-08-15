@@ -1,5 +1,5 @@
 # odin-recipes
-<h4>Abilities Showcased:</h4>
+<h4>Skill Demonstrated:</h4>
 <ul>
     <li>Using the WSL command line</li>
     <li>Linking projects to github</li>
